@@ -11,3 +11,4 @@ asdfsaf
 周六有有修改。
 Git has a mutable index called stage.
 Git tracks changes.
+add first
