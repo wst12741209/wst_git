@@ -23,7 +23,12 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 <<<<<<< HEAD
 
+<<<<<<< Updated upstream
 =======
 >>>>>>> branch2
 asdfasdf
 >>>>>>> branch3
+=======
+撒旦法师打发斯蒂芬
+发送到发沙发
+>>>>>>> Stashed changes
