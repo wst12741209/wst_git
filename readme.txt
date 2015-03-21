@@ -10,3 +10,4 @@ Git is free software distributed under the GPL.
 asdfsaf
 周六有有修改。
 Git has a mutable index called stage.
+Git tracks changes.
