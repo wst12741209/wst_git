@@ -21,5 +21,9 @@ hjkljlkljkjlkj
 on branch1
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 
-撒旦法师打发斯蒂芬
+=======
+>>>>>>> branch2
+asdfasdf
+>>>>>>> branch3
