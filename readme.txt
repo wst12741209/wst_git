@@ -12,3 +12,4 @@ asdfsaf
 Git has a mutable index called stage.
 Git tracks changes.
 add first
+add scond third
