@@ -19,8 +19,7 @@ add scond third
 hjkljlkljkjlkj
 
 on branch1
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
 Creating a new branch is quick and simple.
->>>>>>> branch2
+
+撒旦法师打发斯蒂芬
